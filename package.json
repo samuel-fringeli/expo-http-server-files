@@ -1,6 +1,6 @@
 {
-	"name": "expo-http-server",
-	"version": "0.1.12",
+	"name": "@kccd/expo-http-server",
+	"version": "0.1.15",
 	"description": "A simple HTTP server expo module (iOS/Android)",
 	"main": "build/index.js",
 	"types": "build/index.d.ts",
@@ -21,13 +21,13 @@
 		"expo-http-server",
 		"ExpoHttpServer"
 	],
-	"repository": "https://github.com/simonsturge/expo-http-server",
+	"repository": "https://github.com/kccd/expo-http-server",
 	"bugs": {
-		"url": "https://github.com/simonsturge/expo-http-server/issues"
+		"url": "https://github.com/kccd/expo-http-server/issues"
 	},
 	"author": "Simon <development@simonsturge.com> (https://github.com/simonsturge)",
 	"license": "MIT",
-	"homepage": "https://github.com/simonsturge/expo-http-server#readme",
+	"homepage": "https://github.com/kccd/expo-http-server#readme",
 	"dependencies": {},
 	"devDependencies": {
 		"@types/react": "^18.0.25",

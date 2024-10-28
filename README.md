@@ -17,7 +17,7 @@ Web: **Not implemented**
 ## Install
 
 ```shell
-npx expo install expo-http-server
+npx expo install @kccd/expo-http-server
 ```
 
 ## Example
